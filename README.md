@@ -18,12 +18,12 @@ How to Run the Project;
 
 1.Download or clone this repository
 
-git clone 
+https://github.com/MmathapeloNare/ExpenseTracker/tree/main 
 
 
 2.Open the project folder
 
-Open index.html in your browser
+3.Open index.html in your browser
 
 That’s it — no setup required 😊
 
@@ -31,16 +31,12 @@ Why This Project?
 
 This project was created to help practice:
 
-JavaScript basics
-
-Working with the DOM
-
-Building small, practical projects
+-JavaScript basics
+-Working with the DOM
+-Building small, practical projects
 
 Possible Improvements
 
-Save expenses using local storage
-
-Add categories or totals
-
-Improve the design
+-Save expenses using local storage
+-Add categories or totals
+-Improve the design
